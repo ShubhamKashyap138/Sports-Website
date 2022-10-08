@@ -1,0 +1,52 @@
+
+.one {
+    background: url("../images/Group\ 219.png") no-repeat center/cover;
+    background-size: 100% 100%;
+    font-size: xx-large;
+    height: 200px;
+}
+
+.two {
+    background: url("../images/Group\ 129.png") no-repeat center/cover;
+    background-size: 100% 100%;
+    font-size: xx-large;
+    height: 200px;
+}
+
+.three {
+    background: url("../images/Group\ 130.png") no-repeat center/cover;
+    background-size: 100% 100%;
+    font-size: xx-large;
+    height: 200px;
+}
+
+.btn-dark:hover {
+    transform: scale(1.05);
+    transition: 0.2s;
+}
+
+.col-12 img {
+    margin-left: 5px;
+    height: 70%;
+    width: 4%;
+}
+
+.one:hover,
+.two:hover,
+.three:hover {
+    transform: scale(1.02);
+    transition: 0.5s;
+}
+
+.col-12 img:hover {
+    transform: scale(1.2);
+    transition: 0.5s;
+}
+
+@media screen and (max-width : 768px) {
+    .login {
+        margin-right: 0;
+        margin-bottom: 4px;
+        padding: 6px 0;
+    }
+}

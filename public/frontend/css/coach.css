@@ -1,0 +1,47 @@
+.back {
+    background: url("../images/Group\ 189.png") no-repeat center/cover;
+    background-size: 100% 100%;
+}
+
+.temp {
+    margin-top: 300px;
+    background: transparent;
+}
+
+.btn-dark:hover {
+    transform: scale(1.05);
+    transition: 0.2s;
+}
+
+.dublicate{
+    display: none;
+}
+
+@media screen and (max-width : 750px) {
+    .back {
+        background-size: 205% 100%;
+    }
+}
+
+@media screen and(max-width: 992px) {
+    .row button {
+        margin-top: 10px;
+    }
+}
+
+@media screen and (max-width : 768px) {
+    .login {
+        margin-right: 0;
+        margin-bottom: 4px;
+        padding: 6px 0;
+    }
+}
+
+@media screen and (max-width : 992px){
+    .search2{
+        display: none;
+    }
+    .dublicate{
+        display: contents;
+    }
+}

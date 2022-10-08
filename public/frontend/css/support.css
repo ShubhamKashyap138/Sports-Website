@@ -1,0 +1,66 @@
+.back {
+    background: url("../images/Group\ 187.png") no-repeat center/cover;
+    background-size: 100% 100%;
+}
+
+.temp {
+    margin-top: 300px;
+    background: transparent;
+}
+
+.bor1 {
+    border-left: 2px solid #e0d7d7;
+}
+
+.horiLine {
+    color: black;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.helpHeading {
+    color: red;
+    margin-bottom: 4px;
+    font-weight: 700;
+    font-size: larger;
+}
+
+.btn-dark:hover {
+    transform: scale(1.05);
+    transition: 0.2s;
+}
+
+.row a:hover {
+    transform: scale(1.1);
+    transition: 0.3s;
+}
+
+.option:hover {
+    transform: scale(1.2);
+    transition: 0.3s;
+}
+
+@media screen and (max-width : 750px) {
+    .back {
+        background-size: 205% 100%;
+    }
+}
+
+@media screen and (max-width : 767px) {
+    .horiLine {
+        display: none;
+    }
+
+    .bor1 {
+        border-left: 2px solid white;
+    }
+}
+
+@media screen and (max-width : 768px) {
+    .login {
+        margin-right: 0;
+        margin-bottom: 4px;
+        padding: 6px 0;
+    }
+}

@@ -1,0 +1,223 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+html,
+body {
+    height: 100%;
+}
+
+.login {
+    margin-right: 50px;
+    border: 2px solid black;
+    padding: 0px 20px;
+}
+
+.logo {
+    margin-left: 30px;
+}
+
+.register {
+    margin-right: 10px;
+}
+
+.Drop{
+    width: 20px !important;
+}
+
+a {
+    text-decoration: none;
+}
+
+.otherPages {
+    margin-right: 40px;
+}
+
+.otherPages:hover,
+.login:hover {
+    background: rgb(206, 204, 204);
+    border-radius: 4px;
+    transition: 0.3s;
+}
+
+.btn-dark:hover {
+    transform: scale(1.05);
+    transition: 0.2s;
+}
+
+.underline2{
+    border-bottom: 2px solid white;
+}
+
+.option:hover {
+    transform: scale(1.2);
+    transition: 0.3s;
+}
+
+.play {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+    height: 30%;
+}
+
+.area {
+    background-color: #ededed;
+}
+
+.crd {
+    overflow: hidden;
+    box-shadow: 1px 1px 3px 3px #afaeae;
+    margin-left: 20px;
+}
+
+.crd:hover {
+    transform: scale(1.03);
+    transition: 0.3s;
+}
+
+footer {
+    background-color: black;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    margin-top: 44px !important;
+}
+
+.foot2 {
+    color: white;
+    font-size: 20px;
+    text-align: center;
+}
+
+.foot3 {
+    width: 184px;
+}
+
+.foot3 p {
+    color: white;
+    text-align: center;
+    font-size: 12px;
+    margin-bottom: 3px;
+}
+
+.icons {
+    text-align: center;
+}
+
+.icons a img {
+    height: 14px;
+    margin: 3px;
+}
+
+ul {
+    list-style: none;
+}
+
+ul li {
+    margin-left: 10px;
+}
+
+.footul {
+    padding-left: 0px;
+    margin-bottom: 0px;
+}
+
+.f {
+    margin: 2px;
+    margin-top: 15px;
+    font-size: 15px;
+}
+
+.footul a {
+    font-size: 12px;
+    margin: 0;
+}
+
+.data {
+    font-size: 12px;
+}
+
+
+@media screen and (max-width : 560px) {
+    footer {
+        justify-content: space-around;
+    }
+
+    .foot2 {
+        width: 100%;
+    }
+
+    .foot3 {
+        margin-top: 7px;
+    }
+
+    .footul {
+        display: flex;
+    }
+
+    li {
+        margin-left: 10px;
+    }
+}
+
+@media screen and (min-width:768px) and (max-width:800px) {
+
+    .otherPages,
+    .login,
+    .register {
+        font-size: 14px;
+    }
+}
+
+@media screen and (max-width:630px) {
+    .option {
+        font-size: 15px;
+    }
+}
+
+@media screen and (max-width:520px) {
+    .option {
+        font-size: 13px;
+    }
+
+    .option img {
+        height: 30px;
+        width: 30px;
+
+    }
+}
+
+@media screen and (max-width:410px) {
+    .option {
+        font-size: 10px;
+    }
+
+    .option img {
+        height: 30px;
+        width: 70px;
+
+    }
+}
+
+@media screen and (max-width : 767px) {
+    .login {
+        margin-right: 10px;
+        margin-left: 10px;
+        margin-bottom: 4px;
+        padding: 6px 0;
+    }
+
+    .register {
+        margin-left: 10px;
+    }
+
+    .otherPages {
+        text-align: center;
+        margin-left: 40px;
+    }
+}
