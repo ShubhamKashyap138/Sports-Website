@@ -1,28 +1,29 @@
-
-## Home Page
-![Screenshot (14)](https://user-images.githubusercontent.com/115343590/194710272-e0b8b1e6-53f5-4687-9a83-f8b6e2ec8f72.png)
+##Home Page
+![Screenshot (24)](https://user-images.githubusercontent.com/115343590/194712065-53f7f1c4-f2fc-4b66-9179-3c408e57ec39.png)
 
 ##Player Page
-![Screenshot (20)](https://user-images.githubusercontent.com/115343590/194711676-8f3d10bf-b9e1-4a71-acd5-0cda6ae88237.png)
+![Screenshot (20)](https://user-images.githubusercontent.com/115343590/194712083-afff1ed8-2110-4b8e-8993-5a1366d37678.png)
 
 ##Coach Page
-![Screenshot (21)](https://user-images.githubusercontent.com/115343590/194711688-01e07327-deca-4489-a5b5-82007514f2bc.png)
+![Screenshot (21)](https://user-images.githubusercontent.com/115343590/194712091-f8212e4c-a282-4217-bffc-c4ff3578fd14.png)
 
-##Login
-![Screenshot (16)](https://user-images.githubusercontent.com/115343590/194711703-bf7a3ca7-bdcd-4f85-b2a8-7ade7f9a2a2c.png)
+##Login Page
+![Screenshot (16)](https://user-images.githubusercontent.com/115343590/194712102-457a1c35-973f-448f-8f88-99ec530e65a9.png)
 
-##Register
-![Screenshot (17)](https://user-images.githubusercontent.com/115343590/194711715-b0e6913a-3e35-4d3c-aa09-6e2397d390f3.png)
+##Register Page
+![Screenshot (17)](https://user-images.githubusercontent.com/115343590/194712120-8d464a26-6132-4714-a7d7-55ddc237154f.png)
 
-##About
-![Screenshot (18)](https://user-images.githubusercontent.com/115343590/194711724-a619754c-9682-443d-8921-4a4fd2fff0f4.png)
+##About Page
+![Screenshot (18)](https://user-images.githubusercontent.com/115343590/194712127-2e34456b-b968-47a5-8ff4-1082a25d499a.png)
 
-##Support
-![Screenshot (19)](https://user-images.githubusercontent.com/115343590/194711749-2b24f347-1fc0-49a3-81cf-f3cafb418cd6.png)
+##Support Page
+![Screenshot (19)](https://user-images.githubusercontent.com/115343590/194712138-636e8d7a-59e9-412f-b70f-26d1fc0a1e86.png)
 
-##Player Register
-![Screenshot (22)](https://user-images.githubusercontent.com/115343590/194711808-4ec5a831-7349-41da-8376-4ed52b6cfc96.png)
+##Player Registration
+![Screenshot (22)](https://user-images.githubusercontent.com/115343590/194712146-8a7ff08e-d9ed-46fc-950c-ef6f1ef3ca60.png)
 
 ##Player Update
-![Screenshot (23)](https://user-images.githubusercontent.com/115343590/194711814-8555a9e2-b372-4653-8e8f-44e1256b53b0.png)
+![Screenshot (23)](https://user-images.githubusercontent.com/115343590/194712155-ad1d98e5-0407-421d-bf6f-eab3062bad74.png)
+
+
 
